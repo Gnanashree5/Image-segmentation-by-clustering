@@ -70,5 +70,5 @@ Apply a mask to subtract the background, setting it to blue while keeping the fo
 
 Display the original image, grayscale image, segmented image, edge detection result, and the final image with background subtraction using matplotlib.
 
-<h2>Acknowledgement</h2>
-This project is done under guidance of https://github.com/Victor-Ikechukwu
+<h2>Acknowledgements</h2>
+<p>Special thanks to <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a> for their invaluable guidance and support throughout this project.</p>
